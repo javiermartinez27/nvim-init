@@ -6,6 +6,7 @@ Plug 'nvim-lua/plenary.nvim'
 Plug 'nvim-telescope/telescope.nvim', { 'tag': '0.1.6' }
 Plug 'AlexvZyl/nordic.nvim', { 'branch': 'main' }
 Plug 'numirias/semshi', { 'do': ':UpdateRemotePlugins' }
+Plug 'kdheepak/lazygit.nvim'
 
 " List ends here. Plugins will become visible to Vim after this call.
 call plug#end()
